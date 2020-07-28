@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I love creating online games, entertaining people.
+I love creating online games 👾, entertaining people 🤡.
 
-#### Games:
+#### Games (I'm working on):
 
-Joker (https://jok.ge) - Card game, for smart people
+Joker 🃏 (https://jok.ge) - Card game, for smart people
