@@ -1,6 +1,6 @@
 ### About me
 
-I love creating online games 👾, entertaining people 🤡.
+I love creating online games 👾 entertaining people 🤡
 
 <br/>
 
