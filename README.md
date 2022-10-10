@@ -13,3 +13,10 @@ I love creating online games 👾 entertaining people 🤡
 
 <br/>
 <br/>
+
+
+### Open-source libraries maintained by me:
+
+* https://github.com/jokio/gen-graphql-client - GraphQL Client generation tool
+* https://github.com/jokio/mango - Deno + Mongo = 🥭
+* https://github.com/jokio/transport - Minimal abstraction layer for a real-time communication, supports: Deno, Nodejs, Browser
