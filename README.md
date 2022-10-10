@@ -6,7 +6,7 @@ I love creating online games 👾 entertaining people 🤡
 
 ### My recent (hobby) projects:
 
-* https://jok.land - Avatar System
+* https://jok.land - Avatar System for Web3
 * https://jok.ge - Realtime Online Game (20k+ monthly active users)
 * https://ezeki.eth.link - Simple Wallet
 * https://stoprussia.app - Barcode Scanner (3M+ products scanned in last 3 months)
