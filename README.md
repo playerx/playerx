@@ -6,18 +6,12 @@ I love creating online games 👾 entertaining people 🤡
 
 ### My recent (hobby) projects:
 
+* https://jlpt.zone - Easy way to study japanese words and prepare for JLPT exams.
 * https://jok.land - Avatar System for Web3
 * https://jok.ge - Realtime Online Game (20k+ monthly active users)
-* https://ezeki.eth.link - Simple Wallet
+* https://ezeki.eth.link - Simple Wallet, which transforms any word into secured wallet. Useful in specific use-cases.
+* https://scanproduct.app - Scan barcode and find information about the product, like manufacturing country, etc.
 * https://stoprussia.app - Barcode Scanner (2M+ products scanned in first 3 months)
-
-<br/>
-
-### Open-source libraries maintained by me:
-
-* https://github.com/jokio/gen-graphql-client - GraphQL Client generation tool
-* https://github.com/jokio/mango - Deno + Mongo = 🥭
-* https://github.com/jokio/transport - Minimal abstraction layer for a real-time communication, supports: Deno, Nodejs, Browser
 
 <br/>
 <br/>
